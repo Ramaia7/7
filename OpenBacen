@@ -1,0 +1,32 @@
+# Política de Privacidade – Estatísticas de Meio de Pagamentos GPT
+
+**Última atualização: 07/06/2025**
+
+Este GPT consulta exclusivamente dados públicos disponibilizados pelo
+Banco Central do Brasil via API Olinda. Não coleta, armazena ou processa
+dados pessoais sensíveis.
+
+## 1. Dados Coletados
+- **Consultas** digitadas pelo usuário (texto livre).
+- Essas consultas são processadas em tempo real e **não são armazenadas** pelo
+  desenvolvedor.
+
+## 2. Uso dos Dados
+- As consultas são usadas apenas para gerar respostas automáticas.
+- Nenhuma informação é compartilhada com terceiros além dos provedores
+  necessários para a operação do GPT (OpenAI e Banco Central do Brasil).
+
+## 3. Cookies e Rastreamento
+- Este serviço não utiliza cookies próprios.
+- A plataforma ChatGPT pode aplicar cookies conforme sua própria política.
+
+## 4. Segurança
+- Conexões HTTPS são usadas em todas as requisições externas.
+- Não armazenamos dados de usuários em servidores próprios.
+
+## 5. Direitos do Titular
+- Caso queira excluir ou revisar qualquer dado gerado em conversa,
+  utilize as ferramentas da própria plataforma ChatGPT.
+
+## 6. Contato
+Dúvidas? Envie e-mail para <seu-email@exemplo.com>.
